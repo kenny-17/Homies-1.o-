@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101962090424",
+    "project_id": "homiesapp-ed572",
+    "storage_bucket": "homiesapp-ed572.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101962090424:android:087ff325d2606694fb314d",
+        "android_client_info": {
+          "package_name": "com.example.homies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjXDEj73MaLme0bJ8hlzODLxkG7eml_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
